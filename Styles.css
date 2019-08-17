@@ -1,0 +1,31 @@
+.navbar-nav{
+    position: relative;
+}
+
+.navbar-brand{
+    padding: 10px;
+    background: rgb(238, 32, 152);
+}
+
+.card-title{
+    font-size: 30px;
+    color: rgb(238, 32, 152);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.boxt{
+    color: rgb(238, 32, 152);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.card-text{
+    font-size: 20px;
+}
+.card-img-top{
+    block-size: 20px, 20px;
+}
+#body-C{
+    background-color: gray;
+}
